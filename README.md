@@ -19,5 +19,5 @@ open the terminal on the location of the .jar and write
 java -jar CurrencyConverter.jar and do Enter
 the program will excecute
 # Requirements
-java jdk for running the program
-https://www.oracle.com/java/technologies/downloads/
+java jre for running the program
+https://www.java.com/es/download/ie_manual.jsp
