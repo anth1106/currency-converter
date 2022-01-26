@@ -4,15 +4,20 @@
 ![image](https://user-images.githubusercontent.com/61751339/151086545-53869442-1b9d-4477-98b4-363459b04948.png)
 ![image](https://user-images.githubusercontent.com/61751339/151086582-7f697fcf-a36c-4080-8573-9dca0cb512e1.png)
 # Features
+calculate the currency convertion from the currencies you choose
+update the value of a currency(you have to update it in relation with USD price)
+you can see a dynamic table with all currencies and values
 # Download
 https://github.com/anth1106/currency-converter/releases/tag/v1.0.0
 # How to use
 download CurrencyConverter.jar or the project 
 On Windows
 execute the CurrencyConverter.jar or the shortcut you have on the project
-once the program has open 
+once the program has open you can acces to all the options from the menu
 On Linux
-
+open the terminal on the location of the .jar and write 
+java -jar CurrencyConverter.jar and do Enter
+the program will excecute
 # Requirements
 java jdk for running the program
 https://www.oracle.com/java/technologies/downloads/
